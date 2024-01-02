@@ -1,0 +1,3 @@
+AND --> land(i0, i1)
+
+NOT --> lnot(i0)
